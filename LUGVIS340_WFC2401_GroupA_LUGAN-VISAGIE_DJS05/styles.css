@@ -1,0 +1,28 @@
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.add {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.subtract {
+    background-color: #008CBA;
+    color: white;
+}
+
+.reset {
+    background-color: #f44336;
+    color: white;
+}  
+
+.get-state {
+    background-color: orange;
+    color: white;
+}
+
