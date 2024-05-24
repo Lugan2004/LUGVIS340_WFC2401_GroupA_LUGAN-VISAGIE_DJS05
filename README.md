@@ -22,3 +22,6 @@ just run the code below in the console.
 just run the code below in the console.
 - getState();
 - Or Use the get state button in the UI to get the current state of the count.
+
+### what I struggled with:
+I struggled with implementing the subscribe function.I wanted to make the process of subscribing to the state more user friendly. I tried to make the user be able to subscribe with a click of a button instead of having to write the line of code in the console but I failed in that aspect but I was able to complete the main task and make the add,substract and reseting of the count much more user freindly by making the UI more user friendly.
